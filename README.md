@@ -10,7 +10,7 @@
 ### Clone the repository:
 
 ```bash 
-git clone <repository_url>
+git clone https://github.com/aryansetia/restful-social-app.git
 cd <project_directory>
 ```
 
